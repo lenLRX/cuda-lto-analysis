@@ -1,0 +1,1 @@
+__device__ float add_1(float a);
